@@ -1,0 +1,26 @@
+{
+    "ownerNumber": ["6281242209942@s.whatsapp.net","6281344956704@s.whatsapp.net"],
+    "ownerName": "KvRiel-Code",
+    "instagram" : "https://instagram.com/arerie_9",
+    "botName": "Assistant KvRiel",
+    "footer": "api.zeeoneofc.my.id",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "uFir2XnD",
+    "auto_welcomeMsg": false,
+    "auto_leaveMsg": false, 
+    "antiViewOnce": true,
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
