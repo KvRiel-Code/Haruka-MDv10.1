@@ -8,6 +8,7 @@
     "fotoDonasi": "./qris.jpg",
     "pathimg": "./Haruka.jpg",
     "BotKey": "uFir2XnD",
+    "audio_di_bagian_menu": "./",
     "auto_welcomeMsg": false,
     "auto_leaveMsg": false, 
     "antiViewOnce": true,
